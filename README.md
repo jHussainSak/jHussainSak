@@ -1,7 +1,5 @@
-<h3>Hi everyone,I'm Jamshed Hussain!👋<h3>
-<hr>
-<h1>I'm a Software Developer</h1>
-<hr>
+<h4>Hi everyone,I'm Jamshed Hussain!👋<h4>
+<h3>I'm a Software Developer</h3>
 Having 2+ years of experience in software development for:-
 Java,
 J2EE,
