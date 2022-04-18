@@ -1,10 +1,11 @@
-<h4>Hi everyone,I'm Jamshed Hussain!👋<h4>
-<h3>I'm a Software Developer</h3>
-Having 2+ years of experience in software development for:-
-Java,
-J2EE,
-Spring Framework,
-Spring Boot,
-Spring Data,
-JPA, 
+<h3>Hi everyone,I'm Jamshed Hussain!👋<h3>
+<hr>
+<h2>I'm a Software Developer</h2><br>
+Having 2+ years of experience in software development for:-<br>
+Java,<br>
+J2EE,<br>
+Spring Framework,<br>
+Spring Boot,<br>
+Spring Data,<br>
+JPA, <br>
 Hibernate and Microservice.
